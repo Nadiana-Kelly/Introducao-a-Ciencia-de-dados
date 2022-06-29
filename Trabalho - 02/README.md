@@ -1,7 +1,7 @@
 
 # Introducao-a-Ciencia-de-dados
 
-Trabalho 02 - Este trabalho tem como objetivo analisar com bases estatísticas o arquivo csv criado no trabalho 1. Segue Abaixo algumas (não todas) imagens gráficas das análises obtidas. 
+Trabalho 02 - Este trabalho tem como objetivo analisar com bases estatísticas o arquivo csv criado no trabalho 1. Segue Abaixo algumas imagens (não todas) gráficas das análises obtidas. 
 
 Boxplot 
 
